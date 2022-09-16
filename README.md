@@ -7,3 +7,7 @@ https://user-images.githubusercontent.com/97245841/190660536-53c4f7ca-1cb7-448b-
 # About
 
 Movement of Spaceship : "W A S D";
+
+shooting button
+
+"j" : 
