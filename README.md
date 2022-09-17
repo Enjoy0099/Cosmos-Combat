@@ -17,7 +17,7 @@ shooting button
 (Laser)
 "j" (default): 
 
-according to your collected set
+**according to the collector, you can use new high-damage weapons respected by their keys.
 
 
 ***k*** : <img src="https://user-images.githubusercontent.com/97245841/190842244-e4900f46-0bbc-4cf0-8171-35545c7bff65.png" width="20" height="20" />
