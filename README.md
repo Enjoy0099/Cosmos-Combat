@@ -20,7 +20,7 @@ shooting button
 according to your collected set
 
 
-"k" : <img src="https://user-images.githubusercontent.com/97245841/190842244-e4900f46-0bbc-4cf0-8171-35545c7bff65.png" width="50" height="50" />
+***k*** : <img src="https://user-images.githubusercontent.com/97245841/190842244-e4900f46-0bbc-4cf0-8171-35545c7bff65.png" width="50" height="50" />
 
 "b" :
 
