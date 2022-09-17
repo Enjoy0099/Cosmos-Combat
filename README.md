@@ -16,20 +16,19 @@ Let's See How many Waves you can survive. according to your collected shooting w
 
 Movement of Spaceship : "W A S D" OR " Arrow Keys ";
  
-shooting button
+> ## shooting button
 
-(Laser)
-"j" (default): 
+## Default : J
 
 **according to the collector, you can use new high-damage weapons respected by their keys.**
 
 
-***k*** : <img src="https://user-images.githubusercontent.com/97245841/190842244-e4900f46-0bbc-4cf0-8171-35545c7bff65.png" width="20" height="20" />
+### K : <img src="https://user-images.githubusercontent.com/97245841/190842244-e4900f46-0bbc-4cf0-8171-35545c7bff65.png" width="25" height="25" />
 
-"b" :
+### N : <img src="https://user-images.githubusercontent.com/97245841/190842613-f1163668-d17c-4d71-aab8-2baad7076e52.png" width="25" height="25" />
 
-"n" : <img src="https://user-images.githubusercontent.com/97245841/190842613-f1163668-d17c-4d71-aab8-2baad7076e52.png" width="20" height="20" />
+### B : <img src="https://user-images.githubusercontent.com/97245841/190842613-f1163668-d17c-4d71-aab8-2baad7076e52.png" width="25" height="25" />
 
-"m" : 
+### M : <img src="https://user-images.githubusercontent.com/97245841/190842613-f1163668-d17c-4d71-aab8-2baad7076e52.png" width="25" height="25" />
 
-Damage Incease: J < K < B < N < M .
+### Damage Incease: J < K < N < B < M .
