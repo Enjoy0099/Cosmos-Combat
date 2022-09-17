@@ -24,7 +24,7 @@ according to your collected set
 
 "b" :
 
-"n" :
+"n" : <img src="https://user-images.githubusercontent.com/97245841/190842613-f1163668-d17c-4d71-aab8-2baad7076e52.png" width="20" height="20" />
 
 "m" : 
 
