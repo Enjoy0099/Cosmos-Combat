@@ -2,8 +2,8 @@
 
 This is my new Game.
 
-# Cosmos-Combat
-
+# Cosmos-Combat 
+<img src="https://user-images.githubusercontent.com/97245841/190843459-ae21a1ad-9b1c-4652-89aa-6977745766dc.png" width="100" height="100" />
 
 https://user-images.githubusercontent.com/97245841/190660536-53c4f7ca-1cb7-448b-ae3e-db8f104f48e4.mp4
 
@@ -31,3 +31,4 @@ Movement of Spaceship : "W A S D" OR " Arrow Keys ";
 ### M : <img src="https://user-images.githubusercontent.com/97245841/190843376-9c060a4a-1f3a-4e7e-a659-0a8f0b506481.png" width="30" height="30" />
 
 ### Damage Incease: J < K < N < B < M .
+
