@@ -19,7 +19,7 @@ shooting button
 
 according to your collected set
 
-#"k" : ![laser-precision](https://user-images.githubusercontent.com/97245841/190842244-e4900f46-0bbc-4cf0-8171-35545c7bff65.png)
+"k" : ![laser-precision](https://user-images.githubusercontent.com/97245841/190842244-e4900f46-0bbc-4cf0-8171-35545c7bff65.png =250x250)
 
 "b" :
 
