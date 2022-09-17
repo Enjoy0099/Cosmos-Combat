@@ -19,6 +19,7 @@ shooting button
 
 according to your collected set
 
+<img src="https://user-images.githubusercontent.com/97245841/190842244-e4900f46-0bbc-4cf0-8171-35545c7bff65.png" width="200" height="400" />
 "k" : ![laser-precision](https://user-images.githubusercontent.com/97245841/190842244-e4900f46-0bbc-4cf0-8171-35545c7bff65.png )
 
 "b" :
