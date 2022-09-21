@@ -10,7 +10,13 @@ https://user-images.githubusercontent.com/97245841/190660536-53c4f7ca-1cb7-448b-
 
 # About
 
-Let's See How many Waves you can survive. according to your collected shooting weapons (which collected when you destroy enemy spacecraft or meteors); You can shoot more dangers weapon using 'j', 'k', 'b', 'n', 'm' key button (according to your collected set). which causes more damage to enemy spacecraft. You can also increase your health by collecting health collectables.
+This is a 2D wave base space shooting game. In this game, you need to destroy the enemy ship and survive against enemies and meteors.
+
+And that is if you destroy enemy and meteor you will get booty of weapons or health. hence that you can survive more easily. And this loot item is completely random and will not be available all the time.
+
+In this game, you will loot a variety of weapons. And the level of damage will also vary according to different weapons. In this manner, you can Smoothly destroy the enemy ship using high-powered weapons.
+
+Let's see how many waves you can survive.
 
 # Button 
 
